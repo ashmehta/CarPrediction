@@ -46,10 +46,4 @@ I then used a more advanced model called random forest. With this model we saw t
             o	Nissan
 
 
-
-
-
-
-
-
 Based off these results I can conclude that the features impacting the price of the used car the most is odometer readings and price per mile. 
